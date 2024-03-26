@@ -37,5 +37,7 @@ public class EmsiApplication implements CommandLineRunner  { //pour executer le 
         products.forEach(p->{
             System.out.println(p);
         });
+
+
     }
 }
